@@ -1,0 +1,24 @@
+{
+  "name": "pizza-node",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "node-ifying the pizza app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdirashidexe/pizza-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdirashidexe/pizza-node/issues"
+  },
+  "homepage": "https://github.com/abdirashidexe/pizza-node#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
